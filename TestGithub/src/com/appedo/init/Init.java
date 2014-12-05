@@ -11,6 +11,7 @@ public class Init {
 		System.out.println("sum of two num :"+ new AppManager().sum(5,10));
 		System.out.println("End main");
 		
+		
 	}
 
 }
